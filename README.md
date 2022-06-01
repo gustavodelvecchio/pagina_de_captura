@@ -1,2 +1,2 @@
 # pagina_de_captura
-projeto utilizando apenas HTML | CSS
+exercicio utilizando apenas HTML | CSS
